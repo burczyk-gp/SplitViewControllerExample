@@ -1,0 +1,1 @@
+![UISplitViewController.gif](https://raw.githubusercontent.com/burczyk-gp/SplitViewControllerExample/master/resources/UISplitViewController.gif)
